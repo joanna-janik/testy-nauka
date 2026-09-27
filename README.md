@@ -1,2 +1,3 @@
-# testy-nauka
-Testy i nauka 27.09.2026
+# Mój test i nauka Git i Github
+
+Imię i nazwisko: Joanna Janik
